@@ -1,0 +1,5 @@
+1. mas mau tanya kapan saatnya menggunakan float?
+kemarin saya prakter buat web layout yg isininya ada header.navigation.sidebar.content.footer
+tapi saya ga menggukana float, dan saat menggunakan float posisinya jadi acak acakan awalnya center
+
+2.
